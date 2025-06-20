@@ -2,9 +2,11 @@
 <h3 align="center">A passionate developer from Indonesia, currently studying at Institut Teknologi Bandung (ITB)</h3>
 
 ---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/24c26250-b38d-4a73-b93b-ac0f017e3086" style="width: 300px; height: 400px;"/>
 </div>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -44,6 +46,10 @@
 
 ---
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KennethhPoenadi&theme=buefy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KennethhPoenadi&show_icons=true&locale=en&layout=compact" alt="KennethhPoenadi" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KennethhPoenadi&show_icons=true&locale=en" alt="KennethhPoenadi" /></p>
