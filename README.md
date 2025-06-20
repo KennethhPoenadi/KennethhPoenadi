@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth Poenadi</h1>
 <h3 align="center">A passionate developer from Indonesia, currently studying at Institut Teknologi Bandung (ITB)</h3>
 
----
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/24c26250-b38d-4a73-b93b-ac0f017e3086" style="width: 300px; height: 400px;"/>
-</div>
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kenneth-poenadi-52450429a/" target="_blank">
