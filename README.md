@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kenneth Poenadi</h1>
-<h3 align="center">A passionate developer from Indonesia, currently studying at Institut Teknologi Bandung (ITB)</h3>
+<h1 align="center">Hi, I'm Kenneth Poenadi</h1>
+<h3 align="center">A passionate developer from Indonesia, currently on my 3th year studying in Institut Teknologi Bandung (ITB)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
