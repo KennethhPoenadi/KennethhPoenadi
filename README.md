@@ -12,10 +12,9 @@
 
 ### 👋 About Me
 
-- 🎓 3rd year Computer Science student at **Institut Teknologi Bandung**
-- 💻 Passionate about building full-stack web apps and mobile apps
-- 🌱 Currently exploring **Flutter**, **Kotlin**, **React Native**, and **Google Cloud**
-- 🚀 Always up for learning new technologies
+- 3rd year Computer Science student at **Institut Teknologi Bandung**
+- Passionate about building full-stack web apps and mobile apps
+- Always up for learning new technologies
 
 ---
 
